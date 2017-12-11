@@ -7,6 +7,7 @@ Created on Fri Dec  1 17:46:59 2017
 
 # Import the pandas package, then use the "read_csv" function to read
 # the labeled training data
+import pandas as pd       
 import os
 import io
 import unicodedata
